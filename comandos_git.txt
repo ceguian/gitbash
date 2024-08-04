@@ -15,4 +15,6 @@ Comando básicos Git Bash
     git restore (nombre_archivo) => restaura cualquier archivo que ya hubiese sido enviado a commit y aún no haya sido aprobado su cambio.
     git status -s => muestra una version simplficada del estado del repositorio.
     git diff => muestra las diferencias generadas en un archivo.
+    git log => muestra el historial del repositorio.
+    git log --oneline => muestra una version simplificada de los commits realizados.
     
