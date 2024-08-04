@@ -17,4 +17,5 @@ Comando básicos Git Bash
     git diff => muestra las diferencias generadas en un archivo.
     git log => muestra el historial del repositorio.
     git log --oneline => muestra una version simplificada de los commits realizados.
+    git checkout -b (nombre_rama) => crea una nueva rama en el repositorio.
     
