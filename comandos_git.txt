@@ -1,0 +1,16 @@
+Comando básicos Git Bash
+    cd => directorio del usuario (Ej: /c/Users/Pedro).
+    cd . => te mantiene en el directorio actual.
+    cd .. => te regresa al directorio padre.
+    ls => te muestra el contenido del directorio.
+    pwd => te muestra la ruta del directorio.
+    mkdir => crea un directorio.
+    git init => inicia un repositorio en el directorio actual.
+    code . => abre el compilador.
+    git status => muesta el estado del repositorio.
+    git add (nombre_archivo) => agrega el archivo al repositorio.
+    git commit (nombre_archivo) => agrega el archivo al commit.
+    git rm (nombre_archivo) => remueve el archivo del repositorio.
+    mv (nombre_archivo) (nuevo_nombre) => cambia el nombre del archivo.
+    git restore (nombre_archivo) => restaura cualquier archivo que ya hubiese sido enviado a commit y aún no haya sido aprobado su cambio.
+    
