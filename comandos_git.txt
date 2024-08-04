@@ -13,4 +13,6 @@ Comando básicos Git Bash
     git rm (nombre_archivo) => remueve el archivo del repositorio.
     mv (nombre_archivo) (nuevo_nombre) => cambia el nombre del archivo.
     git restore (nombre_archivo) => restaura cualquier archivo que ya hubiese sido enviado a commit y aún no haya sido aprobado su cambio.
+    git status -s => muestra una version simplficada del estado del repositorio.
+    git diff => muestra las diferencias generadas en un archivo.
     
