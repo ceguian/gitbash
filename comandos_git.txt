@@ -19,6 +19,7 @@ Comando básicos Git Bash
     git log --oneline => muestra una version simplificada de los commits realizados.
     git checkout -b (nombre_rama) => crea una nueva rama en el repositorio.
     git checkout (nombre_rama) => cambia a la rama indicada.
- 
+    git merge (nombre_rama) => anexa los archivos de la rama hija a la master.
+    cat (nombre_archivo) => muestra el contenido del archivo elegido.
     
     
